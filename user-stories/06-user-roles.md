@@ -11,3 +11,7 @@
 
 1. Brainstorm all the roles
 2. Refine and group them
+
+## User Persona
+
+1. Imaginary person
